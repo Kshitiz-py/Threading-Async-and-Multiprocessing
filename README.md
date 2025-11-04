@@ -1,6 +1,7 @@
 # 🧠 Understanding Python Concurrency: Threads, Asyncio, and the GIL
 
 > A clear, practical explanation of how Python handles concurrency — and when to use threads, asyncio, or multiprocessing.
+> ![Understanding Python Concurrency](./gil_thread_process_async.png)
 
 ---
 
